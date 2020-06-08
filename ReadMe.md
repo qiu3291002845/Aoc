@@ -1,5 +1,7 @@
 # 青鸟项目-1903班成员(一张三李一陈一琚)
 
+![logo黑](http://www.aimmeng.com/logo/bird.png)
+
 ## 一、项目目录以及详解
 
 ① 文件夹命名规则:
@@ -11,6 +13,8 @@
 ​	server: node服务器端接口
 
 ​	moblie:移动端界面
+
+
 
 ② 默认文件:
 
