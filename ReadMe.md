@@ -1,4 +1,5 @@
-# 青鸟项目-1903班成员(一张三李一陈一琚)
+# Aoc Bird
+
 
 ![logo黑](http://www.aimmeng.com/logo/bird.png)
 
